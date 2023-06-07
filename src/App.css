@@ -1,0 +1,17 @@
+body, html {
+    font-family: 'Rubik', sans-serif !important; 
+    color: #353440 !important;
+    background-color: #F0F0F2 !important;
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none !important;
+    color: #7C8EA6;
+}
+
+a:hover {
+    transition: .5s;
+    color: #D7D7D9;
+}
