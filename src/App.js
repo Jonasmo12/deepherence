@@ -1,11 +1,16 @@
 import './App.css';
+import Nav from './components/Nav';
+import LandingPage from './components/LandingPage';
+import Feature from './components/Feature';
+import Footer from './components/Footer';
 
 function App() {
   return (
     <>
-    <h1>Deepherence</h1>
-    <a href=''>click here</a>
-    <p>this is a p tag</p>
+    < Nav />
+    <LandingPage />
+    <Feature/>
+    <Footer/>
     </>
 
   )
